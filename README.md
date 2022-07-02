@@ -1,2 +1,2 @@
 # String-Hashing
-String Hashing C program
+Open String Hashing/ Closed chaining C program
